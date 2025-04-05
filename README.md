@@ -28,10 +28,6 @@ Third Party Libraries
 * [MockK](https://github.com/oleksiyp/mockk)
 * [Koin](https://github.com/InsertKoinIO/koin)
 
-Donations
---------
-Just in case...
 
-BTC: 17Uqe6E1kswkmdkQCjTz5owQruHJwxPPsp
 
 
