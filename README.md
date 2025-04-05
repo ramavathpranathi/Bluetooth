@@ -5,6 +5,7 @@
 This project is a test area for trying and mastering fancy programming stuff: Kotlin, MVP, DI, Coroutines, testing, Architecture Components, the newest Android features.
 
 <img src="graphics/featured.png"/>
+![image](https://github.com/user-attachments/assets/9b55463c-eb65-4c14-989d-21b0e8330faa)
 
 Localization [![Crowdin](https://d322cqt584bo4o.cloudfront.net/bluetoothchat/localized.svg)](https://crowdin.com/project/bluetoothchat)
 --------
